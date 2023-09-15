@@ -7,6 +7,7 @@
   [![labs SISDRUG](https://img.shields.io/github/directory-file-count/SISDRUG/C-Sharp-Mates/SISDRUG??color=blue&labelColor=black&label=SISDRUG&logo=C-sharp&logoColor=red&style=for-the-badge)](https://github.com/SISDRUG/C-Sharp-Mates/tree/main/SISDRUG)
   [![labs BaldaAzz](https://img.shields.io/github/directory-file-count/SISDRUG/C-Sharp-Mates/BaldaAzz??color=blue&labelColor=black&label=BaldaAzz&logo=C-sharp&logoColor=red&style=for-the-badge)](https://github.com/SISDRUG/C-Sharp-Mates/tree/main/BaldaAzz) 
   [![labs Vicider](https://img.shields.io/github/directory-file-count/SISDRUG/C-Sharp-Mates/Vicider??color=blue&labelColor=black&label=Vicider&logo=C-sharp&logoColor=red&style=for-the-badge)](https://github.com/SISDRUG/C-Sharp-Mates/tree/main/Vicider)
+  [![labs dimasiz](https://img.shields.io/github/directory-file-count/SISDRUG/C-Sharp-Mates/dimasiz??color=blue&labelColor=black&label=dimasiz&logo=C-sharp&logoColor=red&style=for-the-badge)](https://github.com/SISDRUG/C-Sharp-Mates/tree/main/dimasiz)
 
 # Main 
   Ветвь отведенная для готовых файлов
