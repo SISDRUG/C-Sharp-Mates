@@ -4,9 +4,9 @@
   [![activity](https://img.shields.io/github/commit-activity/w/SISDRUG/C-Sharp-Mates?style=for-the-badge&logo=C-sharp&logoColor=grass&labelColor=black)](https://github.com/SISDRUG/C-Sharp-Mates/commits/main)
 
 # Labs counts
-  [![labs SISDRUG](https://img.shields.io/github/directory-file-count/BaldaAzz/Python_labs/Denchik??color=blue&labelColor=black&label=Denchik&logo=python&logoColor=grass&style=for-the-badge)](https://github.com/BaldaAzz/Python_labs/tree/main/SISDRUG)
-  [![labs BaldaAzz](https://img.shields.io/github/directory-file-count/BaldaAzz/Python_labs/Dmitriy??color=blue&labelColor=black&label=Dimchik&logo=python&logoColor=grass&style=for-the-badge)](https://github.com/BaldaAzz/Python_labs/tree/main/BaldaAzz) 
-  [![labs Vicider](https://img.shields.io/github/directory-file-count/BaldaAzz/Python_labs/Ruslan??color=blue&labelColor=black&label=Ruslanchik&logo=python&logoColor=grass&style=for-the-badge)](https://github.com/BaldaAzz/Python_labs/tree/main/Vicider)
+  [![labs SISDRUG](https://img.shields.io/github/directory-file-count/BaldaAzz/Python_labs/Denchik??color=blue&labelColor=black&label=Denchik&logo=C-sharp&logoColor=grass&style=for-the-badge)](https://github.com/SISDRUG/C-Sharp-Mates/tree/main/SISDRUG)
+  [![labs BaldaAzz](https://img.shields.io/github/directory-file-count/BaldaAzz/Python_labs/Dmitriy??color=blue&labelColor=black&label=Dimchik&logo=C-sharp&logoColor=grass&style=for-the-badge)](https://github.com/SISDRUG/C-Sharp-Mates/tree/main/BaldaAzz) 
+  [![labs Vicider](https://img.shields.io/github/directory-file-count/BaldaAzz/Python_labs/Ruslan??color=blue&labelColor=black&label=Ruslanchik&logo=C-sharp&logoColor=grass&style=for-the-badge)](https://github.com/SISDRUG/C-Sharp-Mates/tree/main/Vicider)
 
 # Main 
   Ветвь отведенная для готовых файлов
