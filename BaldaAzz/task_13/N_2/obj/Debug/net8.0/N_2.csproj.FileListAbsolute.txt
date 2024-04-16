@@ -1,0 +1,15 @@
+E:\study\КИПЯП\C-Sharp-Mates\BaldaAzz\task_13\N_2\obj\Debug\net8.0\N_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\КИПЯП\C-Sharp-Mates\BaldaAzz\task_13\N_2\obj\Debug\net8.0\N_2.AssemblyInfoInputs.cache
+E:\study\КИПЯП\C-Sharp-Mates\BaldaAzz\task_13\N_2\obj\Debug\net8.0\N_2.AssemblyInfo.cs
+E:\study\КИПЯП\C-Sharp-Mates\BaldaAzz\task_13\N_2\obj\Debug\net8.0\N_2.csproj.CoreCompileInputs.cache
+E:\study\КИПЯП\C-Sharp-Mates\BaldaAzz\task_13\N_2\obj\Debug\net8.0\N_2.sourcelink.json
+E:\study\КИПЯП\C-Sharp-Mates\BaldaAzz\task_13\N_2\bin\Debug\net8.0\N_2.exe
+E:\study\КИПЯП\C-Sharp-Mates\BaldaAzz\task_13\N_2\bin\Debug\net8.0\N_2.deps.json
+E:\study\КИПЯП\C-Sharp-Mates\BaldaAzz\task_13\N_2\bin\Debug\net8.0\N_2.runtimeconfig.json
+E:\study\КИПЯП\C-Sharp-Mates\BaldaAzz\task_13\N_2\bin\Debug\net8.0\N_2.dll
+E:\study\КИПЯП\C-Sharp-Mates\BaldaAzz\task_13\N_2\bin\Debug\net8.0\N_2.pdb
+E:\study\КИПЯП\C-Sharp-Mates\BaldaAzz\task_13\N_2\obj\Debug\net8.0\N_2.dll
+E:\study\КИПЯП\C-Sharp-Mates\BaldaAzz\task_13\N_2\obj\Debug\net8.0\refint\N_2.dll
+E:\study\КИПЯП\C-Sharp-Mates\BaldaAzz\task_13\N_2\obj\Debug\net8.0\N_2.pdb
+E:\study\КИПЯП\C-Sharp-Mates\BaldaAzz\task_13\N_2\obj\Debug\net8.0\N_2.genruntimeconfig.cache
+E:\study\КИПЯП\C-Sharp-Mates\BaldaAzz\task_13\N_2\obj\Debug\net8.0\ref\N_2.dll
