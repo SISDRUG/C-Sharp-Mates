@@ -1,0 +1,15 @@
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_1\bin\Debug\net8.0\N_1.exe
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_1\bin\Debug\net8.0\N_1.deps.json
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_1\bin\Debug\net8.0\N_1.runtimeconfig.json
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_1\bin\Debug\net8.0\N_1.dll
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_1\bin\Debug\net8.0\N_1.pdb
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_1\obj\Debug\net8.0\N_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_1\obj\Debug\net8.0\N_1.AssemblyInfoInputs.cache
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_1\obj\Debug\net8.0\N_1.AssemblyInfo.cs
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_1\obj\Debug\net8.0\N_1.csproj.CoreCompileInputs.cache
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_1\obj\Debug\net8.0\N_1.sourcelink.json
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_1\obj\Debug\net8.0\N_1.dll
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_1\obj\Debug\net8.0\refint\N_1.dll
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_1\obj\Debug\net8.0\N_1.pdb
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_1\obj\Debug\net8.0\N_1.genruntimeconfig.cache
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_1\obj\Debug\net8.0\ref\N_1.dll

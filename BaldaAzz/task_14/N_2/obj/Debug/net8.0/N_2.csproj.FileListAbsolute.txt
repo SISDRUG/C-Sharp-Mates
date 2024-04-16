@@ -1,0 +1,15 @@
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_2\obj\Debug\net8.0\N_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_2\obj\Debug\net8.0\N_2.AssemblyInfoInputs.cache
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_2\obj\Debug\net8.0\N_2.AssemblyInfo.cs
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_2\obj\Debug\net8.0\N_2.csproj.CoreCompileInputs.cache
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_2\obj\Debug\net8.0\N_2.sourcelink.json
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_2\bin\Debug\net8.0\N_2.exe
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_2\bin\Debug\net8.0\N_2.deps.json
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_2\bin\Debug\net8.0\N_2.runtimeconfig.json
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_2\bin\Debug\net8.0\N_2.dll
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_2\bin\Debug\net8.0\N_2.pdb
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_2\obj\Debug\net8.0\N_2.dll
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_2\obj\Debug\net8.0\refint\N_2.dll
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_2\obj\Debug\net8.0\N_2.pdb
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_2\obj\Debug\net8.0\N_2.genruntimeconfig.cache
+E:\study\C#\C-Sharp-Mates\BaldaAzz\task_14\N_2\obj\Debug\net8.0\ref\N_2.dll
